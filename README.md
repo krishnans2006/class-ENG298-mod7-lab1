@@ -81,9 +81,7 @@ Throughout this lab, you will capture your commands, screenshots, and findings i
 
 ## **Part 1: SBOM Generation (in Codespaces)**
 
-All commands can be executed directly inside your GitHub Codespace using this repo:
-
-👉 [https://github.com/obriencasey/eng298-fa25-mod7-sbom-lab](https://github.com/obriencasey/cs460-fa-25-hbom-sbom-lab)
+All commands can be executed directly inside your GitHub Codespace using this repo.
 
 ### **Steps**
 
